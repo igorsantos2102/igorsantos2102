@@ -33,6 +33,7 @@
 ## 📚 Em Constante Aprendizado
 
 - ☁️ AWS Cloud Practitioner (em andamento)
+- 🌐 Oracle One (em andamento)
 - 🌐 Curso de HTML, CSS e JavaScript ([Certificado](https://drive.google.com/file/d/10yvfOxcEIKp8rDbVzUK5lWW7qej2r8IJ/view))
 
 ## 📫 Vamos Conversar!
