@@ -23,13 +23,13 @@
 
 ## 💼 Projetos em Destaque
 
-- **Decodificador de Texto:** Aplicativo web que codifica e decodifica mensagens usando diferentes técnicas de criptografia. (Link para o projeto)
-- **Jogo do Número Secreto:** Jogo interativo que desafia o usuário a adivinhar um número secreto. (Link para o projeto)
+- **[Decodificador de Texto](https://igorsantos2102.github.io/projetos/decodificador-de-texto/index.html):** Aplicativo web que codifica e decodifica mensagens usando diferentes técnicas de criptografia.
+- **[Jogo do Número Secreto](https://igorsantos2102.github.io/projetos/jogoDoNumeroSecreto/index.html):** Jogo interativo que desafia o usuário a adivinhar um número secreto.
 
 ## 📚 Em Constante Aprendizado
 
 - ☁️ AWS Cloud Practitioner (em andamento)
-- 🌐 Curso de HTML, CSS e JavaScript (Certificado)
+- 🌐 Curso de HTML, CSS e JavaScript ([Certificado](https://drive.google.com/file/d/10yvfOxcEIKp8rDbVzUK5lWW7qej2r8IJ/view))
 
 ## 📫 Vamos Conversar!
 
