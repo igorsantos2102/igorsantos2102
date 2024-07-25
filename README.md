@@ -26,9 +26,9 @@
 - **[Decodificador de Texto](https://igorsantos2102.github.io/projetos/decodificador-de-texto/index.html):** Aplicativo web que codifica e decodifica mensagens usando diferentes técnicas de criptografia.
 - **[Jogo do Número Secreto](https://igorsantos2102.github.io/projetos/jogoDoNumeroSecreto/index.html):** Jogo interativo que desafia o usuário a adivinhar um número secreto.
 - **[Water Clean](http://pi-proz.vercel.app/):** Projeto colaborativo em que desenvolvi as seguintes partes:
-  - **Tela de Autarquia:** [Imagem da Tela de Autarquia](link-para-imagem)
-  - **Tela de Login/Cadastro:** [Imagem da Tela de Login/Cadastro](link-para-imagem)
-  - **Repositório no GitHub:** [Water Clean Repository](https://github.com/seurepositorio) (Se o repositório estiver disponível)
+  - **[Tela de Autarquia](https://pi-proz.vercel.app/html/Cadastro_autarquia.html)**
+  - **[Tela de Login/Cadastro](https://pi-proz.vercel.app/html/telaLogin.html)**
+  - **Repositório no GitHub:** [Water Clean Repository](https://github.com/seurepositorio)
 
 ## 📚 Em Constante Aprendizado
 
