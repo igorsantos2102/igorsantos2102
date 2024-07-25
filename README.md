@@ -22,7 +22,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Gran Centro Universit
 ## Certificações e Cursos
 
 - **AWS Cloud Practitioner:** Em andamento.
-- **Curso de HTML, CSS e JavaScript:** [Certificado]([https://linkcurso.com](https://drive.google.com/file/d/10yvfOxcEIKp8rDbVzUK5lWW7qej2r8IJ/view)
+- **Curso de HTML, CSS e JavaScript:** [Certificado](https://drive.google.com/file/d/10yvfOxcEIKp8rDbVzUK5lWW7qej2r8IJ/view)
 
 ## Atividades Extracurriculares
 
