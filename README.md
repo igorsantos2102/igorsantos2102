@@ -16,8 +16,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Gran Centro Universit
 
 ## Projetos Destacados
 
-- **[Decodificador de Texto]([https://github.com/seuprojeto1](https://igorsantos2102.github.io/projetos/decodificador-de-texto/index.html))
-- **[Jogo do Número Secreto]([https://github.com/seuprojeto2](https://igorsantos2102.github.io/projetos/jogoDoNumeroSecreto/index.html)):
+- **[Decodificador de Texto]([https://github.com/seuprojeto1](https://igorsantos2102.github.io/projetos/decodificador-de-texto/index.html))**
+- **[Jogo do Número Secreto]([https://github.com/seuprojeto2](https://igorsantos2102.github.io/projetos/jogoDoNumeroSecreto/index.html))**
 
 ## Contribuições e Participações
 
