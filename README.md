@@ -28,7 +28,7 @@
 - **[Water Clean](http://pi-proz.vercel.app/):** Projeto colaborativo em que desenvolvi as seguintes partes:
   - **[Tela de Autarquia](https://pi-proz.vercel.app/html/Cadastro_autarquia.html)**
   - **[Tela de Login/Cadastro](https://pi-proz.vercel.app/html/telaLogin.html)**
-  - **Repositório no GitHub:** [Water Clean Repository](https://github.com/seurepositorio)
+  - **[Repositório no GitHub](https://github.com/donmarchiori/PI-PROZ)**
 
 ## 📚 Em Constante Aprendizado
 
