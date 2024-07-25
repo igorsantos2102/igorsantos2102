@@ -1,35 +1,41 @@
 # Igor Santos Guedes Pereira
 
-Olá! Me chamo Igor, apaixonado por tecnologia com experiência em gestão de loja e suporte de informática. Atualmente, trabalho como Instrutor de Informática na Prodabel e estou sempre em busca de aprender novas tecnologias e desenvolver minhas habilidades.
+👋 Olá! Sou Igor, um entusiasta da tecnologia com experiência em gestão de loja e suporte de TI. Atualmente, sou Instrutor de Informática na Prodabel e busco constantemente aprender e aprimorar minhas habilidades em desenvolvimento.
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorsantos2102&show_icons=true&theme=radical)
+[![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorsantos2102&show_icons=true&theme=radical)](https://github.com/igorsantos2102)
 
-## Sobre Mim
+## 🌱 Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas. Tenho paixão por desenvolvimento de aplicativos e sites e pelo aprendizado contínuo de novas tecnologias. No meu tempo livre, participo de grupos de estudos relacionados à programação e outras atividades.
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas.
+- 💻 Apaixonado por desenvolvimento de aplicativos e sites, sempre aprendendo novas tecnologias.
+- 📚 Participo ativamente de grupos de estudos sobre programação e áreas relacionadas.
+- 🛠️ Experiência em gestão de loja e suporte de TI me proporciona uma visão abrangente da tecnologia.
 
-## Habilidades e Tecnologias
+## 🚀 Habilidades e Tecnologias
 
-- **Linguagens de Programação:** JavaScript
-- **Ferramentas e Tecnologias:** Git, GitHub, Google Planilhas, AWS Cloud
-- **Outras Habilidades:** Administração de dados, gerenciamento de projetos, resolução de problemas de hardware e software, liderança, trabalho em equipe, comunicação
+- **Linguagens:** JavaScript (foco em aprimoramento)
+- **Ferramentas:** Git, GitHub, Google Planilhas, AWS Cloud (em aprendizado)
+- **Especialidades:**
+    - Desenvolvimento Front-End (HTML, CSS, JavaScript)
+    - Lógica de Programação
+    - Resolução de problemas
+    - Trabalho em equipe
 
-## Projetos Destacados
+## 💼 Projetos em Destaque
 
-- **[Decodificador de Texto](https://igorsantos2102.github.io/projetos/decodificador-de-texto/index.html)**: Um projeto que decodifica e codifica mensagens de texto utilizando diversas técnicas de criptografia.
-- **[Jogo do Número Secreto](https://igorsantos2102.github.io/projetos/jogoDoNumeroSecreto/index.html)**: Um jogo interativo onde o usuário deve adivinhar o número secreto escolhido pelo sistema.
+- **Decodificador de Texto:** Aplicativo web que codifica e decodifica mensagens usando diferentes técnicas de criptografia. (Link para o projeto)
+- **Jogo do Número Secreto:** Jogo interativo que desafia o usuário a adivinhar um número secreto. (Link para o projeto)
 
-## Certificações e Cursos
+## 📚 Em Constante Aprendizado
 
-- **AWS Cloud Practitioner:** Em andamento.
-- **Curso de HTML, CSS e JavaScript:** [Certificado](https://drive.google.com/file/d/10yvfOxcEIKp8rDbVzUK5lWW7qej2r8IJ/view)
+- ☁️ AWS Cloud Practitioner (em andamento)
+- 🌐 Curso de HTML, CSS e JavaScript (Certificado)
 
-## Atividades Extracurriculares
+## 📫 Vamos Conversar!
 
-- Participação em grupos de estudos de programação.
-- Trabalho voluntário.
+- 📧 Email: igorsantos36912@gmail.com
+- 💼 LinkedIn: [Igor Santos](https://www.linkedin.com/in/igor-santos-a24bb5234/)
 
-## Contato
+## 🤝 Colaboração
 
-- Email: igorsantos36912@gmail.com
-- LinkedIn: [Igor Santos](https://www.linkedin.com/in/igor-santos-a24bb5234/)
+Estou sempre aberto a novas oportunidades de aprendizado e colaboração em projetos! Se você tiver alguma ideia interessante ou quiser trocar conhecimentos, sinta-se à vontade para me contatar.
