@@ -19,11 +19,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Gran Centro Universit
 - **[Decodificador de Texto](https://igorsantos2102.github.io/projetos/decodificador-de-texto/index.html)**
 - **[Jogo do Número Secreto](https://igorsantos2102.github.io/projetos/jogoDoNumeroSecreto/index.html)**
 
-## Contribuições e Participações
-
-- **Contribuição 1:** Descrição breve da contribuição.
-- **Participação em Evento:** Descrição breve do evento.
-
 ## Certificações e Cursos
 
 - **AWS Cloud Practitioner:** Em andamento.
