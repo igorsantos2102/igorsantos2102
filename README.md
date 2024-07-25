@@ -1,12 +1,12 @@
 # Igor Santos Guedes Pereira
 
-Olá! Eu sou o Igor, um Desenvolvedor de Software com experiência em gestão de loja e suporte de informática. Atualmente, trabalho como Instrutor de Informática na Prodabel e estou sempre em busca de aprender novas tecnologias e desenvolver minhas habilidades.
+Olá! Me chamo Igor, apaixonado por tecnologia com experiência em gestão de loja e suporte de informática. Atualmente, trabalho como Instrutor de Informática na Prodabel e estou sempre em busca de aprender novas tecnologias e desenvolver minhas habilidades.
 
-![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=seugithub&show_icons=true&theme=radical)
+![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorsantos2102&show_icons=true&theme=radical)
 
 ## Sobre Mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Gran Centro Universitário e Técnico em Desenvolvimento de Sistemas na Proz. Tenho paixão por desenvolvimento de aplicativos e sites e pelo aprendizado contínuo de novas tecnologias. No meu tempo livre, participo de grupos de estudos relacionados à programação e trabalho voluntário.
+Sou estudante de Análise e Desenvolvimento de Sistemas e Técnico em Desenvolvimento de Sistemas. Tenho paixão por desenvolvimento de aplicativos e sites e pelo aprendizado contínuo de novas tecnologias. No meu tempo livre, participo de grupos de estudos relacionados à programação e outras atividades.
 
 ## Habilidades e Tecnologias
 
@@ -16,8 +16,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Gran Centro Universit
 
 ## Projetos Destacados
 
-- **[Decodificador de Texto](https://igorsantos2102.github.io/projetos/decodificador-de-texto/index.html)**
-- **[Jogo do Número Secreto](https://igorsantos2102.github.io/projetos/jogoDoNumeroSecreto/index.html)**
+- **[Decodificador de Texto](https://igorsantos2102.github.io/projetos/decodificador-de-texto/index.html)**: Um projeto que decodifica e codifica mensagens de texto utilizando diversas técnicas de criptografia.
+- **[Jogo do Número Secreto](https://igorsantos2102.github.io/projetos/jogoDoNumeroSecreto/index.html)**: Um jogo interativo onde o usuário deve adivinhar o número secreto escolhido pelo sistema.
 
 ## Certificações e Cursos
 
