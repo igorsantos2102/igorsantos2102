@@ -10,7 +10,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Gran Centro Universit
 
 ## Habilidades e Tecnologias
 
-- **Linguagens de Programação:** HTML, CSS, JavaScript
+- **Linguagens de Programação:** JavaScript
 - **Ferramentas e Tecnologias:** Git, GitHub, Google Planilhas, AWS Cloud
 - **Outras Habilidades:** Administração de dados, gerenciamento de projetos, resolução de problemas de hardware e software, liderança, trabalho em equipe, comunicação
 
