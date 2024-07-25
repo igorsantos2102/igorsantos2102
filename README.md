@@ -32,4 +32,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no Gran Centro Universit
 ## Contato
 
 - Email: igorsantos36912@gmail.com
-- LinkedIn: [Igor Santos](www.linkedin.com/in/0-igor-santos)
+- LinkedIn: [Igor Santos](https://www.linkedin.com/in/igor-santos-a24bb5234/)
