@@ -1,6 +1,6 @@
 # Igor Santos Guedes Pereira
 
-👋 Olá! Me chamo Igor, um entusiasta da tecnologia com experiência em gestão de loja e suporte de TI. Atualmente, sou Instrutor de Informática na Prodabel e busco constantemente aprender e aprimorar minhas habilidades em desenvolvimento.
+👋 Olá! Me chamo Igor. Atualmente, sou Instrutor de Informática na Prodabel e busco constantemente aprender e aprimorar minhas habilidades em desenvolvimento.
 
 [![Igor's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorsantos2102&show_icons=true&theme=radical)](https://github.com/igorsantos2102)
 
