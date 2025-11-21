@@ -1,11 +1,5 @@
 # Igor Santos Guedes Pereira
 
-Olá! Me chamo **Igor**, sou de **Belo Horizonte – MG** e estudante de **Análise e Desenvolvimento de Sistemas**.
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igorsantos2102\&show_icons=true\&theme=radical)](https://github.com/igorsantos2102)
-
----
-
 ## Sobre Mim
 
 * Estudante de nível superior em **Análise e Desenvolvimento de Sistemas** e formado como **Técnico em Desenvolvimento de Sistemas**.
