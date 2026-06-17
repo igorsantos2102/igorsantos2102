@@ -2,28 +2,8 @@
 
 ## Sobre Mim
 
-* Estudante de nível superior em **Análise e Desenvolvimento de Sistemas** e formado como **Técnico em Desenvolvimento de Sistemas**.
-* Instrutor na área de informática, com experiência em **educação digital, suporte técnico** e **formação de mais de 100 alunos**.
-* Curioso por natureza, estou sempre participando de **grupos de estudo** e buscando aplicar meus conhecimentos em projetos reais.
-* Tenho interesse especial por **desenvolvimento front-end**, **análise de dados**, **automação com planilhas** e **cloud computing** (em especial, AWS).
-
----
-
-## Habilidades e Tecnologias
-
-* **Linguagens e Frameworks:**
-  `JavaScript` · `HTML` · `CSS` · `TypeScript` · `React` · `Angular` · `Java`
-
-* **Ferramentas e Plataformas:**
-  `Git & GitHub` · `Figma` · `Google Planilhas (automação)` · `Vite` · `Node.js` · `Spring Boot`
-
-* **Outras competências:**
-  Lógica de programação
-  Resolução de problemas
-  Ensino e comunicação clara
-  Organização e trabalho em equipe
-
----
+* Formado em **Análise e Desenvolvimento de Sistemas** e formado como **Técnico em Desenvolvimento de Sistemas**.
+* Curioso por natureza, estou sempre participando de **grupos de estudo** e buscando aplicar meus conhecimentos.
 
 ## Projetos em Destaque
 
@@ -42,15 +22,6 @@
 
 ---
 
-## Em andamento
-
-* **Blog Pessoal com Dashboard Angular**
-  Projeto fullstack que inclui CRUD de postagens, login e gráficos com dados analíticos. (Frontend em desenvolvimento)
-
-* **Explorando AWS Cloud Practitioner**
-  Estudando os principais serviços da AWS, como EC2, S3 e Lambda, com foco em certificação e aplicação prática.
-
----
 
 ## Contato
 
